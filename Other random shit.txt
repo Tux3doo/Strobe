@@ -1,6 +1,0 @@
-/lua
-/python
-/shell
-/c++
-/html
-/other
