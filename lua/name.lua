@@ -1,0 +1,5 @@
+print("Hello! Thank you for downloading this file!")
+print("Lets get started.")
+print("What is your name?")
+name = io.read()
+print("Hello, "..name.."!")
